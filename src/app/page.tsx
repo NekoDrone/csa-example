@@ -8,7 +8,7 @@ const IndexPage = () => {
       <WiggleWiggle>
         <img
           src="/assets/icon.png"
-          alt="Create Syl's App Logo"
+          alt="Create Syl&apos;s App Logo"
           className="h-24 w-24"
         />
       </WiggleWiggle>
@@ -73,7 +73,7 @@ const IndexPage = () => {
       </div>
 
       <p>
-        For more information about what's included in the bootstrap, please see
+        For more information about what&apos;s included in the bootstrap, please see
         the repository{" "}
         <AnimatedUnderlineLink
           className="text-ctp-blue transition"
